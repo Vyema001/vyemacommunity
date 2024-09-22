@@ -1136,3 +1136,23 @@
 			margin-right: 100px;
 			margin-inline: auto;
 		}
+
+              .pdf {
+			width: 50%;
+			aspect-ratio: 4 / 3;
+		}
+		.pdf,
+		html,
+		body {
+			height: 50%;
+			margin: 0;
+			padding: 0;
+		}
+	   h1,
+		h3 {
+			text-align: center;
+		}
+	
+		h1 {
+			color: green;
+		}
